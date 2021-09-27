@@ -1,0 +1,7 @@
+JGB37 (1:270- 37RPM)
+const int motorGearRatio = 270;
+const int motorEncoderPulse = 64;
+
+JGB37 (1:131- 76RPM)
+const int motorGearRatio = 131;
+const int motorEncoderPulse = 64;

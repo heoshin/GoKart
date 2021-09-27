@@ -1,0 +1,5 @@
+{
+    "sketch": "motor_encoder.ino",
+    "board": "arduino:avr:uno",
+    "port": "COM7"
+}

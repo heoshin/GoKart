@@ -1,0 +1,5 @@
+{
+    "sketch": "모터 엔코더 연습\\motor_encoder\\motor_encoder.ino",
+    "board": "arduino:avr:uno",
+    "port": "COM3"
+}
